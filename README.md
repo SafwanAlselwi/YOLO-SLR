@@ -13,7 +13,7 @@
 
 ## Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)
 <div align="center">
-    <img src="https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/10380310/10494845/qures6-3386826-large.gif" width="600">
+    <img src="https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/10380310/10494845/qures6-3386826-large.gif" width="400">
 </div>
 
 ## Distribution of YOLO versions in medical imaging.
